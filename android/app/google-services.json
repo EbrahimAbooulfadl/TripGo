@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744697275134",
+    "project_id": "tripgo-d89da",
+    "storage_bucket": "tripgo-d89da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744697275134:android:59c0e2034d59e1977e3baf",
+        "android_client_info": {
+          "package_name": "Aboulfadl.com.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744697275134-2ae6npp153f8bn48l6fhrftgiafif8m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDi5WDwc96B7wf4NxrlvDZzAcKgqypqdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744697275134-2ae6npp153f8bn48l6fhrftgiafif8m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
